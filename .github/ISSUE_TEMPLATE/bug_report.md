@@ -9,7 +9,7 @@ assignees: ''
 
 **Registro de incidencias**
 Funcionalidad: ...
-A clear and concise description of what the bug is.
+Una descripción clara y concisa de lo que es el error.
 
 **Para Reproducir**
 Pasos para reproducir el comportamiento:
