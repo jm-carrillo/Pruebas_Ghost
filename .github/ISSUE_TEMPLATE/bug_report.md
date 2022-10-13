@@ -8,7 +8,10 @@ assignees: ''
 ---
 
 **Registro de incidencias**
+ID Incidencia: ...
+ID Prueba: ...
 Funcionalidad: ...
+
 Una descripción clara y concisa de lo que es el error.
 
 **Para Reproducir**
@@ -19,7 +22,7 @@ Pasos para reproducir el comportamiento:
 4. Vea error
 
 **Comportamiento esperado**
-Una descripción clara y concisa de lo que esperaba que sucediera..
+Una descripción clara y concisa de lo que esperaba que sucediera.
 
 **capturas de pantalla**
 Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
