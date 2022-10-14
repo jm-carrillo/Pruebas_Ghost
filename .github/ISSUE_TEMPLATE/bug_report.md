@@ -12,10 +12,14 @@ ID Incidencia: ...
 ID Prueba: ...
 Funcionalidad: ...
 
+**Comportamiento Esperado:**
+Una descripción del comportamiento esperado para el escenario de pruebas ejecutado
+
+**Comportamiento Actual:**
 Una descripción clara y concisa de lo que es el error.
 
-**Para Reproducir**
-Pasos para reproducir el comportamiento:
+**Pasos para reproducir el comportamiento**
+
 1. Vaya a '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -24,13 +28,13 @@ Pasos para reproducir el comportamiento:
 **Comportamiento esperado**
 Una descripción clara y concisa de lo que esperaba que sucediera.
 
-**capturas de pantalla**
+**Evidencias (capturas de pantalla)**
 Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
-**Desktop (Por favor complete la siguiente información):**
+**Contexto (Ambiente de ejecucion)**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - App Version [e.g. 22]
 
-**Contexto adicional**
+**información adicional**
 Agregue cualquier otro contexto sobre el problema aquí.
