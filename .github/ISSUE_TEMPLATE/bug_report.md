@@ -25,9 +25,6 @@ Una descripción clara y concisa de lo que es el error.
 3. Scroll down to '....'
 4. Vea error
 
-**Comportamiento esperado**
-Una descripción clara y concisa de lo que esperaba que sucediera.
-
 **Evidencias (capturas de pantalla)**
 Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
@@ -37,4 +34,4 @@ Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
  - App Version [e.g. 22]
 
 **información adicional**
-Agregue cualquier otro contexto sobre el problema aquí.
+datos adicionales a los que se tenga acceso respecto al defecto. links a recursos externos que brinden más información
